@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Software Engineer with experience in design, integration, and software development. Highly motivated engineer, who is passionate about new technologies, looking for opportunities in software development. Experience working with microcontrollers, sensors, and firmware. Good working knowledge in embedded based software development.</p>
+<p align="left">Embedded Software Engineer with experience in design, integration, and software development. Highly motivated engineer, who is passionate about new technologies, looking for opportunities in software development. Experience working with microcontrollers, sensors, and firmware. Good working knowledge in embedded based software development.</p>
 
 ###
 
