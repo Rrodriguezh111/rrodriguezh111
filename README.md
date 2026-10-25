@@ -22,6 +22,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
 </div>
 
 ###
