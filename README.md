@@ -44,4 +44,20 @@
 
 ###
 
+<h2 align="left">Education</h2>
 
+<div align="left">
+  <p>
+    <strong>University of Illinois Springfield (UIS)</strong><br>
+    Master of Science in Computer Science<br>
+    Expected Graduation: December 2028
+  </p>
+
+  <p>
+    <strong>DeVry University</strong><br>
+    Bachelor's Degree in Computer Engineering<br>
+    Graduated 2019
+  </p>
+</div>
+
+###
